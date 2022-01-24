@@ -6,9 +6,9 @@
 <h1>Congratulation to DevOps09 !!</h1>
 
 <img src="rrr.jpg">
-<img src="megastar.jpg">
 
-<h2>You have successfully launched your Instance!megastar.com!</h2>
+
+<h2>You successfully deployed code</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>

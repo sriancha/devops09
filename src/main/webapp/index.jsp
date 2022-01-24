@@ -6,7 +6,7 @@
 <h1>Congratulation to DevOps09 !!</h1>
 
 <img src="rrr.jpg">
-<img src="Rajani.PNG">
+<img src="megastar.jpg">
 
 <h2>You have successfully launched your Instance!megastar.com!</h2>
 

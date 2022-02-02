@@ -3,9 +3,9 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulation to everyone !!</h1>
+<h1>Hello to everyone !!</h1>
 
-<img src="rrr.jpg">
+<img src="2490792.png">
 
 
 <h2>You successfully deployed code</h2>
